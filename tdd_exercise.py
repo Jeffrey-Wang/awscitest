@@ -12,7 +12,7 @@ def longestCommonSubstring(s1: str, s2: str) -> str:
 
 import unittest
 
-param_list = [('aa', 'aa', 'aa'), ('aa', 'aa3', 'aa')]
+param_list = [('aa', 'aa', 'aa'), ('aa', 'aa3', 'aa'), ('3aa', '0aa', 'aa')]
 class TestStringMethods(unittest.TestCase):
 
 	def test_start(self):
