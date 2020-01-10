@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    runtime-versions:
+      python: 3.7
+  build:
+    commands:
+      - python3 tdd_exercise.py
+  post_build:
+    commands:
+      - echo Tests passed on `date`
