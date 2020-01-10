@@ -1,1 +1,3 @@
 # awscitest
+
+![Build Status](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoib3ZYZWd4NEZvUEZrWUpUY3EzMC9oRkVBd2hyT1ZmZDdRbTlEZ0M1b2VENEpHN3QwT1R5dCtnbGlWeS9DM3d4eGpxbVZka1oyRUVzZHBKNGg5NjNmYXhNPSIsIml2UGFyYW1ldGVyU3BlYyI6Im9RMWhCQ3owZUZJTkg2VUMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
